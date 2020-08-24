@@ -1,7 +1,7 @@
 
-## Books that I've read so far.
+# Books that I've read so far.
 
-### 2020
+## 2020
 
 ### Non Fiction
 * **The Brain** by David Eagleman. (_Current Read_)
@@ -10,7 +10,7 @@
 ### Fiction
 * **The Kite Runner** by Khaled Hosseini.
 
-### 2019
+## 2019
 
 ### Non Fiction
 * **The Obstacle is the way** by Ryan Holiday.
@@ -19,14 +19,14 @@
 * **The Alchemist** by Paulo Coelho.
 
 
-### 2018
+## 2018
 
 ### Non Fiction
 * **Sapiens** by Yuval Noah Harari.
 * **Willpower** by Roy Baumeister.
 * **Everybody Lies** by Seth Stephens-Davidowitz.
 
-### 2017
+## 2017
 
 ### Non Fiction
 * **Willpower** by Roy Baumeister.
