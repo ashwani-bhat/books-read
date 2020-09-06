@@ -30,7 +30,6 @@
 ## 2017
 
 ### Non Fiction
-* **Willpower** by Roy Baumeister.
 * **You Can Win** by Shiv Khera.
 * **Wings of Fire (An Autobiography)**
 * **Man's Search For Meaning** by Viktore Frankl.
