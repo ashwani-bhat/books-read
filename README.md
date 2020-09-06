@@ -1,5 +1,5 @@
 
-# Books that I've read so far.
+# Books I've read so far.
 
 ## 2020
 
