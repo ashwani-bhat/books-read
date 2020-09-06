@@ -4,7 +4,8 @@
 ## 2020
 
 ### Non Fiction
-* **The Brain** by David Eagleman. (_Current Read_)
+* **The 48 Laws of Power** by Robert Greene. (_Current Read_)
+* **The Brain** by David Eagleman.
 * **Atomic Habits** by James Clear.
 
 ### Fiction
