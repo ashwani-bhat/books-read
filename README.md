@@ -4,7 +4,8 @@
 ## 2020
 
 ### Non Fiction
-* **The 48 Laws of Power** by Robert Greene. (_Current Read_)
+* **Ikigai** by Hector Garcia (_Current Read_)
+* **The 48 Laws of Power** by Robert Greene.**
 * **The Brain** by David Eagleman.
 * **Atomic Habits** by James Clear.
 
