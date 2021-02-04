@@ -1,10 +1,27 @@
 
-# Books I've read so far.
+## Books I am planning to read in 2021 (not in order)
+- [ ] **Rework** by David Heinemeier and Jason Fried.
+- [ ] **Almanack of Naval Ravikant** by Eric Jorgenson.
+- [ ] **The Psychology of Money** by Morgan Housel.
+- [ ] **What You Do Is Who You Are** by Ben Horowitz.
+- [ ] **Courage to be Disliked** by Fumitake Koga and Ichiro Kishimi.
+- [ ] **Awareness** by Osho.
+- [ ] **Thinking, Fast and Slow** by Daniel Kahneman.
+
+<hr/>
+
+## Books I've read so far.
+## 2021
+### Non Fiction
+
+### Fiction
+- [ ] **Siddhartha** by Hermann Hesse (_Current Read_)
+
 
 ## 2020
 
 ### Non Fiction
-- [x] **Ikigai** by Hector Garcia (_Current Read_)
+- [x] **Ikigai** by Hector Garcia.
 - [ ] **The 48 Laws of Power** by Robert Greene.
 - [x] **The Brain** by David Eagleman.
 - [x] **Atomic Habits** by James Clear.
