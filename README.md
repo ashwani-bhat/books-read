@@ -3,6 +3,7 @@
 - [ ] **Rework** by David Heinemeier and Jason Fried.
 - [ ] **Almanack of Naval Ravikant** by Eric Jorgenson.
 - [ ] **The Psychology of Money** by Morgan Housel.
+- [ ] **Tools of Titans** by Tim Ferriss.
 - [ ] **What You Do Is Who You Are** by Ben Horowitz.
 - [ ] **Courage to be Disliked** by Fumitake Koga and Ichiro Kishimi.
 - [ ] **Awareness** by Osho.
