@@ -9,6 +9,7 @@
 - [ ] **Awareness** by Osho.
 - [ ] **Thinking, Fast and Slow** by Daniel Kahneman.
 - [ ] **The Denial of death** by Ernest Becker
+- [ ] **The Choice** by Eliyahu M. Goldratt
 
 <hr/>
 
