@@ -2,7 +2,6 @@
 ## Books I am planning to read in 2021 (not in order)
 - [ ] **Rework** by David Heinemeier and Jason Fried.
 - [ ] **Almanack of Naval Ravikant** by Eric Jorgenson.
-- [ ] **The Psychology of Money** by Morgan Housel.
 - [ ] **Tools of Titans** by Tim Ferriss.
 - [ ] **What You Do Is Who You Are** by Ben Horowitz.
 - [ ] **Courage to be Disliked** by Fumitake Koga and Ichiro Kishimi.
@@ -16,9 +15,10 @@
 ## Books I've read so far.
 ## 2021
 ### Non Fiction
-
+- [ ] **A Promised Land** by Barack Obama (_Current Audio Read_)
+- [ ] **The Psychology of Money** by Morgan Housel (_Current Read_)
 ### Fiction
-- [ ] **Siddhartha** by Hermann Hesse (_Current Read_)
+- [x] **Siddhartha** by Hermann Hesse
 
 
 ## 2020
