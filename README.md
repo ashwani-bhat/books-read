@@ -1,10 +1,8 @@
 
-## Books I am planning to read in 2021 (not in order)
+## Books to read
 - [ ] **Rework** by David Heinemeier and Jason Fried.
-- [ ] **Almanack of Naval Ravikant** by Eric Jorgenson.
 - [ ] **Tools of Titans** by Tim Ferriss.
 - [ ] **What You Do Is Who You Are** by Ben Horowitz.
-- [ ] **Courage to be Disliked** by Fumitake Koga and Ichiro Kishimi.
 - [ ] **Awareness** by Osho.
 - [ ] **Thinking, Fast and Slow** by Daniel Kahneman.
 - [ ] **The Denial of death** by Ernest Becker
@@ -13,10 +11,19 @@
 <hr/>
 
 ## Books I've read so far.
+## 2022
+### Non Fiction
+- [ ] **Almanack of Naval Ravikant** by Eric Jorgenson (_Current Read_)
+- [ ] **Courage to be Disliked** by Fumitake Koga and Ichiro Kishimi (_Current Read_)
+- [ ] **Coffee Can Investing** by Saurabh Mukherjea (_Current Read_)
+- [x] **Do Epic Shit** by Ankur Warikoo 
+### Fiction
+
+
 ## 2021
 ### Non Fiction
-- [ ] **A Promised Land** by Barack Obama (_Current Audio Read_)
-- [ ] **The Psychology of Money** by Morgan Housel (_Current Read_)
+- [x] **Rich Dad Poor Dad** by Robert Kiyosaki 
+- [x] **The Psychology of Money** by Morgan Housel 
 ### Fiction
 - [x] **Siddhartha** by Hermann Hesse
 
